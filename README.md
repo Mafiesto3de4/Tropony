@@ -1,4 +1,4 @@
-Tropony Engine - 3D Graphics Settings
+# Tropony Engine - 3D Graphics Settings
 A demo showing an example of a graphics settings menu.
 
 Included settings are:
@@ -24,3 +24,5 @@ Screen adjustments: brightness, contrast, saturation.
 Language: GDScript
 
 Renderer: Vulkan Clustered
+
+Screenshots
