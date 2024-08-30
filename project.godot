@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="TROPONY_ENGINE_v1.8.8822.5b-dev1_win64"
+config/name="TROPONY_Editor"
 config/tags=PackedStringArray("3d", "demo", "official", "rendering", "settings")
 run/main_scene="res://control.tscn"
 config/features=PackedStringArray("4.4")
