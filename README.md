@@ -1,33 +1,26 @@
-# 3D Graphics Settings
-
+Tropony Engine - 3D Graphics Settings
 A demo showing an example of a graphics settings menu.
 
 Included settings are:
 
-**Video settings:**
+Video settings:
 
-- UI scale.
-- Resolution scale.
-- Display filter (bilinear or AMD FidelityFX Super Resolution 1.0).
-- Fullscreen.
-- V-Sync (traditional and adaptive).
-- Anti-aliasing (MSAA and FXAA).
-- Camera field of view.
+UI scale.
+Resolution scale.
+Display filter (bilinear or AMD FidelityFX Super Resolution 1.0).
+Fullscreen.
+V-Sync (traditional and adaptive).
+Anti-aliasing (MSAA and FXAA).
+Camera field of view.
+Effect settings:
 
-**Effect settings:**
-
-- Signed distance field global illumination (SDFGI).
-- Bloom (glow).
-- Screen-space ambient occlusion (SSAO).
-- Screen-Space reflections (SSR).
-- Screen-space indirect lighting (SSIL).
-- Volumetric fog.
-- Screen adjustments: brightness, contrast, saturation.
-
+Signed distance field global illumination (SDFGI).
+Bloom (glow).
+Screen-space ambient occlusion (SSAO).
+Screen-Space reflections (SSR).
+Screen-space indirect lighting (SSIL).
+Volumetric fog.
+Screen adjustments: brightness, contrast, saturation.
 Language: GDScript
 
 Renderer: Vulkan Clustered
-
-## Screenshots
-
-![Screenshot](screenshots/interface.png)
